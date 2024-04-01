@@ -22,6 +22,12 @@ This clone includes several key features of the official Tesla "Model 3" webpage
 - Specifications section and action buttons.
 - A hover effect (some of them are subtle) on all the the links and buttons.
 - A subtle gradient at the top of the webpage and another one at the bottom.
+- Integrated tesla favicon.
+
+## Enhanced Web Practices
+
+- **Semantic Elements**: Employed HTML5 semantic elements (like `<nav>`, `<section>`, `<header>`, and `<footer>`).
+- **Meta Tags**: Included a description meta tag in the `<head>` for better SEO.
 
 ## Getting Started
 
