@@ -84,7 +84,7 @@ html {
 }
 
 .promo-banner a:hover {
-  color: white;
+  font-weight: 700;
 }
 
 .promo-banner::after {
@@ -146,8 +146,9 @@ html {
 }
 
 .nav-links a:hover {
-  background-color: rgba(98, 97, 103, 0.15);
+  background-color: rgba(58, 58, 60, 0.3);
   backdrop-filter: blur(5px);
+  z-index: 4;
 }
 
 .nav-user-actions img {
@@ -167,12 +168,9 @@ html {
 }
 
 .nav-user-actions img:hover {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.8),
-    transparent 25%
-  );
+  background-color: rgba(58, 58, 60, 0.3);
   backdrop-filter: blur(5px);
+  z-index: 4;
 }
 
 .hero-section {
