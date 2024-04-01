@@ -1,6 +1,6 @@
 # Tesla "Model 3" First Webpage Recreation
 
-This project is almost a **precise** recreation of the official Tesla "Model 3" first webpage. It has been created to practice web development skills and to demonstrate web development skills including HTML and CSS.
+This project is almost a **precise** recreation of the official Tesla "Model 3" first webpage https://www.tesla.com/model3. It has been created to practice web development skills and to demonstrate web development skills including HTML and CSS.
 
 ## Project Structure
 
