@@ -9,7 +9,7 @@ This project is almost a **precise** recreation of the official Tesla "Model 3" 
   - `normalize.css` - Ensures consistent rendering of elements across different browsers.
   - `style.css` - Styles the webpage elements.
 - `fonts/`
-  - fonts files ...
+  - fonts files ... which matches the original design closely.
 
 ## Features
 
