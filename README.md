@@ -20,7 +20,8 @@ This clone includes several key features of the official Tesla "Model 3" webpage
 - Navigation bar with links to Tesla's product categories and also user actions (the icons).
 - Informational hero section.
 - Specifications section and action buttons.
-- A hover effect on all the the links and buttons.
+- A hover effect (some of them are subtle) on all the the links and buttons.
+- A subtle gradient at the top of the webpage and another one at the bottom.
 
 ## Getting Started
 
