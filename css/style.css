@@ -344,3 +344,18 @@ html {
   color: black;
   background-color: white;
 }
+
+.chat-assistance-button {
+  position: fixed;
+  width: 50px;
+  height: 40px;
+  bottom: 32px;
+  right: 31px;
+  padding: 13px 13px;
+  z-index: 1000;
+  background-color: #333;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
