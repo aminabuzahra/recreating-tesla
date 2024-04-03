@@ -351,11 +351,19 @@ html {
   height: 40px;
   bottom: 32px;
   right: 31px;
-  padding: 13px 13px;
-  z-index: 1000;
+  padding: 17px 12px 12px;
+  z-index: 10;
   background-color: #333;
   border-radius: 6px;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.chat-assistance-button:hover {
+  background-color: #f4f4f4;
+}
+
+.chat-assistance-button:hover svg {
+  filter: brightness(0.1);
 }
